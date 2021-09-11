@@ -1,7 +1,7 @@
 # refuelTheFactoryJamGame13k
 Source code for Refuel the Factory, a game made for the 2021 Js13kGames game jam.
 
-Want to give a shout out to the great kontrajs library, https://straker.github.io/kontra/getting-started, and the following awesome tutorials:
+Want to give a shout out to the great Kontra library, https://straker.github.io/kontra/getting-started, and the following awesome tutorials:
 
 https://gamedevacademy.org/js13kgames-tutorial-video-series/ from Zenva;
 
